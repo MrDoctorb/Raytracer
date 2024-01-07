@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\zane\Desktop\Stuff\Schoolwork\Computer Graphics\Raytracer\Raytracer\misc.h(10,71): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  Raytracer.vcxproj -> C:\Users\zane\Desktop\Stuff\Schoolwork\Computer Graphics\Raytracer\x64\Debug\Raytracer.exe
